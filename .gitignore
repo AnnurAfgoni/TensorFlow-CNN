@@ -1,6 +1,9 @@
 .env
 __pycache__
 
-
 3.\ ImageDataGenerator/*/
 3.\ ImageDataGenerator/*.zip
+
+6.\ TransferLearning/*/
+6.\ TransferLearning/*.zip
+6.\ TransferLearning/*.h5
